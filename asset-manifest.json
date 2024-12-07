@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/mypenguinhealth.com/static/css/main.f855e6bc.css",
-    "main.js": "/mypenguinhealth.com/static/js/main.c0a8236a.js",
+    "main.css": "/mypenguinhealth.com/static/css/main.3547f3f5.css",
+    "main.js": "/mypenguinhealth.com/static/js/main.b8505e7a.js",
     "static/js/488.ee3306bc.chunk.js": "/mypenguinhealth.com/static/js/488.ee3306bc.chunk.js",
-    "static/media/logo.svg": "/mypenguinhealth.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mypenguinhealth.com/index.html",
-    "main.f855e6bc.css.map": "/mypenguinhealth.com/static/css/main.f855e6bc.css.map",
-    "main.c0a8236a.js.map": "/mypenguinhealth.com/static/js/main.c0a8236a.js.map",
+    "main.3547f3f5.css.map": "/mypenguinhealth.com/static/css/main.3547f3f5.css.map",
+    "main.b8505e7a.js.map": "/mypenguinhealth.com/static/js/main.b8505e7a.js.map",
     "488.ee3306bc.chunk.js.map": "/mypenguinhealth.com/static/js/488.ee3306bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c0a8236a.js"
+    "static/css/main.3547f3f5.css",
+    "static/js/main.b8505e7a.js"
   ]
 }
