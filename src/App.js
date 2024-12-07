@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1 className="title">Penguin Health</h1>
-        <p className="tagline">Building the future of public health solutions.</p>
+        <p className="tagline">Supporting Every Step of Recovery</p>
         <div className="coming-soon">
           <h2>Coming Soon!</h2>
           <p>We're working hard to launch something amazing. Stay tuned!</p>
