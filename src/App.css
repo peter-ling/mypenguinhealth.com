@@ -1,38 +1,69 @@
-.App {
+/* Reset and Basic Styles */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Comfortaa", sans-serif;
+  background: linear-gradient(135deg, #e3f2fd, #90caf9); /* Gradient background */
+  color: #333;
+  display: flex; /* Center everything */
+  justify-content: center; /* Horizontal alignment */
+  align-items: center; /* Vertical alignment */
+  min-height: 100vh; /* Ensure full height */
+}
+
+/* Card Container */
+.container {
+  max-width: 600px;
+  background: #fff;
+  padding: 30px 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Title and Tagline */
+.title {
+  font-size: 2.5rem;
+  color: #004aad; /* Dark blue */
+  margin-bottom: 10px;
+  font-weight: 700; /* Bold */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.tagline {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 20px;
+  font-weight: 300; /* Light */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* Coming Soon Section */
+.coming-soon h2 {
+  font-size: 2rem;
+  color: #ff6f00; /* Orange */
+  margin-bottom: 10px;
+  font-weight: 600; /* Semi-bold */
 }
 
-.App-link {
-  color: #61dafb;
+.coming-soon p {
+  font-size: 1rem;
+  color: #666;
+  font-weight: 400; /* Regular */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Footer */
+footer {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #888;
+}
+
+footer a {
+  color: #004aad;
+  text-decoration: none;
+  font-weight: 500; /* Medium */
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
