@@ -13,7 +13,7 @@ function App() {
             <p>We're working hard to launch something amazing. Stay tuned!</p>
           </div>
         </section>
-
+ 
         <section id="about" className="card">
           <h2>About Our Platform</h2>
           <div className="about-content">
